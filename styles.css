@@ -127,12 +127,6 @@ body {
   margin-bottom: 0.25rem;
 }
 
-.location {
-  font-size: 0.875rem;
-  color: var(--text-muted);
-  margin-bottom: 1.25rem;
-}
-
 .bio {
   font-size: 0.95rem;
   color: var(--text-secondary);
